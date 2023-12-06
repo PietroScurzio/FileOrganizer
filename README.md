@@ -7,6 +7,7 @@ The File Organizer App is a simple Python application that helps you organize fi
 ## Features
 
 - Automatically organizes files based on their types into predefined folders.
+- Predefined folders with unique icons.
 - Provides a graphical user interface (GUI) for easy file organization.
 - Supports various file types, including documents, PDFs, images, audio files, videos, and more.
 
@@ -34,6 +35,8 @@ The File Organizer App is a simple Python application that helps you organize fi
 
 ![File Organizer App](FileOrganizer/assets/1.png)
 ![File Organizer App](FileOrganizer/assets/2.png)
+![File Organizer App](FileOrganizer/assets/3.png)
+
 
 ## System Requirements
 
@@ -47,7 +50,7 @@ If you encounter any issues or have questions, please feel free to send a messag
 
 ## Credits
 
-- Developed by [Your Name]
-- Icon made by [Icon Artist] from [www.flaticon.com]
+- Developed by Pietro Scurzio
+- Icons from [www.flaticon.com]
 
 ---
