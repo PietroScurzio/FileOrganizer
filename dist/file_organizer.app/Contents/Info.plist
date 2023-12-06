@@ -81,7 +81,7 @@
 	<key>PythonInfoDict</key>
 	<dict>
 		<key>PythonExecutable</key>
-		<string>/opt/homebrew/opt/python@3.11/bin/python3.11</string>
+		<string>/Users/pietroscurzio/Coding/PycharmProjects/FileOrganizer/.venv/bin/python</string>
 		<key>PythonLongVersion</key>
 		<string>3.11.6 (main, Nov  2 2023, 04:39:40) [Clang 14.0.0 (clang-1400.0.29.202)]</string>
 		<key>PythonShortVersion</key>

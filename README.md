@@ -11,11 +11,13 @@ The File Organizer App is a simple Python application that helps you organize fi
 - Provides a graphical user interface (GUI) for easy file organization.
 - Supports various file types, including documents, PDFs, images, audio files, videos, and more.
 
-## How to Use
+## Installation
 
-1. Download the latest version of the application.
-2. Open the downloaded disk image (`FileOrganizer.dmg`).
+1. Download the latest version of the application from [here]().
+2. Open the downloaded DMG file (`FileOrganizer.dmg`).
 3. Drag the application (`FileOrganizer.app`) to your Applications folder.
+
+Now, you can run the application from your Applications folder.
 
 ## Supported File Types
 
