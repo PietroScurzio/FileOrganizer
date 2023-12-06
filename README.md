@@ -32,8 +32,8 @@ The File Organizer App is a simple Python application that helps you organize fi
 
 ## Screenshots
 
-![File Organizer App](/Users/pietroscurzio/Coding/PycharmProjects/FileOrganizer/assets/1.png)
-![File Organizer App](/Users/pietroscurzio/Coding/PycharmProjects/FileOrganizer/assets/2.png)
+![File Organizer App](FileOrganizer/assets/1.png)
+![File Organizer App](FileOrganizer/assets/2.png)
 
 ## System Requirements
 

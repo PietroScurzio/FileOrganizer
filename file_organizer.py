@@ -67,7 +67,7 @@ y_position = (screen_height - window_height) // 2
 # Set the geometry of the window
 root.geometry(f"{window_width}x{window_height}+{x_position}+{y_position}")
 
-# Create a dictionary to map folder names to their respective icons (update paths accordingly)
+# Create a dictionary to map folder names to their respective icons
 folder_icons = {
     
     "Text Files": "FileOrganizer/assets/txt.png",

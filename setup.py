@@ -1,15 +1,15 @@
-from setuptools import setup, find_packages
+from setuptools import setup
+
+APP = ['file_organizer.py']
+DATA_FILES = []
+OPTIONS = {
+    'argv_emulation': True,
+    'packages': [],
+}
 
 setup(
-    name='FileOrganizer',
-    version='1.0',
-    packages=find_packages(),
-    install_requires=[
-        # List dependencies here
-    ],
-    entry_points={
-        'console_scripts': [
-            'file_organizer=FileOrganizer.organizer:organize_files',
-        ],
-    },
+    app=APP,
+    data_files=DATA_FILES,
+    options={'py2app': OPTIONS},
+    setup_requires=['py2app'],
 )
