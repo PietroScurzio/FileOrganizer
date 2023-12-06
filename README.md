@@ -13,7 +13,7 @@ The File Organizer App is a simple Python application that helps you organize fi
 
 ## Installation
 
-1. Download the latest version of the application from [here]().
+1. Download the latest version of the application from [here](https://github.com/PietroScurzio/FileOrganizer/blob/main/FileOrganizer.dmg).
 2. Open the downloaded DMG file (`FileOrganizer.dmg`).
 3. Drag the application (`FileOrganizer.app`) to your Applications folder.
 
